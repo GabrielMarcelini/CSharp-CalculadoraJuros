@@ -1,0 +1,34 @@
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\bin\Debug\net6.0-windows\jurosDeFinanciamento.exe
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\bin\Debug\net6.0-windows\jurosDeFinanciamento.deps.json
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\bin\Debug\net6.0-windows\jurosDeFinanciamento.runtimeconfig.json
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\bin\Debug\net6.0-windows\jurosDeFinanciamento.dll
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\bin\Debug\net6.0-windows\jurosDeFinanciamento.pdb
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.Form1.resources
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.Properties.Resources.resources
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.csproj.GenerateResource.cache
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.dll
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\refint\jurosDeFinanciamento.dll
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.pdb
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\ref\jurosDeFinanciamento.dll
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\bin\Debug\net6.0-windows\jurosDeFinanciamento.exe
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\bin\Debug\net6.0-windows\jurosDeFinanciamento.deps.json
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\bin\Debug\net6.0-windows\jurosDeFinanciamento.runtimeconfig.json
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\bin\Debug\net6.0-windows\jurosDeFinanciamento.dll
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\bin\Debug\net6.0-windows\jurosDeFinanciamento.pdb
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.Form1.resources
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.dll
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\refint\jurosDeFinanciamento.dll
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.pdb
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\jurosDeFinanciamento.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\projeto C\Federal-Institute\C#\jurosDeFinanciamento\jurosDeFinanciamento\obj\Debug\net6.0-windows\ref\jurosDeFinanciamento.dll
